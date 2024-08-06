@@ -2,17 +2,13 @@
 
 I am a **back-end developer** with a creative edge and a strong focus on **CyberSecurity**.where I blend innovative solutions with robust security measures to create secure, high-performance applications. My work is driven by a commitment to excellence in both development and data protection.
 
+
 <div align= "center">
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Aref+Ruqaa&size=40&pause=1000&color=F70D0D&width=435&lines=%D8%A7%D9%84%D8%AF%D9%8A%D8%A8)](https://git.io/typing-svg)
 
 
-</div>
-
-
-
-
-<div align= "center">
 
 
 ### Skills:
