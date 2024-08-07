@@ -1,7 +1,7 @@
 <h1 align= "center"><b>Salve Folks! 👾, Here is Eldeeb 💀</b></h1>
 
 
-<h4 align= "center"> I am a back-end developer with a creative edge and a strong focus on CyberSecurity. </h4>
+<h4 align= "center"> I am a <b>back-end developer</b> with a creative edge and a strong focus on <b>CyberSecurity</b>. </h4>
 
 
 <div align= "center">
