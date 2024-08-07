@@ -1,6 +1,6 @@
 <h1 align= "center"><b>Salve Folks! 👾, Here is Eldeeb 💀</b></h1>
 
-I am a **back-end developer** with a creative edge and a strong focus on **CyberSecurity**.where I blend innovative solutions with robust security measures to create secure, high-performance applications. My work is driven by a commitment to excellence in both development and data protection.
+I am a **back-end developer** with a creative edge and a strong focus on **CyberSecurity**.My work is driven by a commitment to excellence in both development and data protection.
 
 
 <div align= "center">
