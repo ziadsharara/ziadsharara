@@ -3,7 +3,7 @@
 
 <h4 align= "center"> 👨‍💻 Aspiring Back-End Developer | Cybersecurity Enthusiast
 
-I'm currently studying programming with a focus on back-end development, and I have a strong interest in cybersecurity. I'm passionate about creating efficient, secure, and scalable systems. Always eager to learn new technologies and explore the latest trends in tech.
+I'm currently studying programming with a focus on <b>back-end development</b>, and I have a strong interest in <b>CyberSecurity</b>. I'm passionate about creating efficient, secure, and scalable systems. Always eager to learn new technologies and explore the latest trends in tech.
 
  </h4>
 
