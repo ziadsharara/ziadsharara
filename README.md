@@ -1,7 +1,11 @@
 <h1 align= "center"><b>Salve Folks! 👾, Here is Eldeeb 💀</b></h1>
 
 
-<h4 align= "center"> I am a <b>back-end developer</b> with a creative edge and a strong focus on <b>CyberSecurity</b>. </h4>
+<h4 align= "center"> 👨‍💻 Aspiring Back-End Developer | Cybersecurity Enthusiast
+
+I'm currently studying programming with a focus on back-end development, and I have a strong interest in cybersecurity. I'm passionate about creating efficient, secure, and scalable systems. Always eager to learn new technologies and explore the latest trends in tech.
+
+ </h4>
 
 
 <div align= "center">
