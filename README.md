@@ -32,10 +32,7 @@ I'm currently studying programming with a focus on <b>back-end development</b>, 
     <img src="https://skillicons.dev/icons?i=html" height="55" alt="html5 logo"  />
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=css" height="55" alt="css logo"  />
-    <img width="12" />
-    <img src="https://skillicons.dev/icons?i=php" height="55" alt="php logo"  />
-    <img width="12" />
-    <img src="https://skillicons.dev/icons?i=laravel" height="55" alt="php logo"  />
+    
 </div>
 <div align="center">
     <img width="12" />
@@ -82,9 +79,9 @@ I'm currently studying programming with a focus on <b>back-end development</b>, 
 ###
 
 ## Get in Touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meemseen)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedselim.div@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/MoHaMeDASeliM9)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eldeeb0x)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ziad.dev@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/eldeeb0x)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Mohamedselim2&color=brightgreen)
 
