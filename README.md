@@ -25,55 +25,55 @@ I'm currently studying programming with a focus on <b>back-end development</b>, 
 
 <div align="center"  >
     <img width="14" />
-    <img src="https://skillicons.dev/icons?i=cpp" height="55" alt="C++ logo"  />
+    <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="C++ logo"  />
     <img width="14" />
-    <img src="https://skillicons.dev/icons?i=py" height="55" alt="python logo"  />
+    <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
     <img width="14" />
-    <img src="https://skillicons.dev/icons?i=html" height="55" alt="html5 logo"  />
+    <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
     <img width="14" />
-    <img src="https://skillicons.dev/icons?i=css" height="55" alt="css logo"  />
+    <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
     
 </div>
 <div align="center">
     <img width="14" />
-    <img src="https://skillicons.dev/icons?i=mysql" height="55" alt="mysql logo"  />
+    <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
     <img width="14" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="55" alt="mssql logo"  />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="60" alt="mssql logo"  />
     <img width="14" />
-    <img src="https://skillicons.dev/icons?i=postgres" height="55" alt="postgresql logo"  />
+    <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo"  />
     <img width="14" />
-    <img src="https://skillicons.dev/icons?i=sqlite" height="55" alt="sqlite logo"  />
+    <img src="https://skillicons.dev/icons?i=sqlite" height="60" alt="sqlite logo"  />
     <img width="14" />
-    <img src="https://skillicons.dev/icons?i=mongodb" height="55" alt="mongodb logo"/>
+    <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"/>
 <div align="center">
     <img width="14" />
-    <img src="https://skillicons.dev/icons?i=git" height="55" alt="git logo"/>
+    <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"/>
     <img width="14" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" height="55" alt="composer logo"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" height="60" alt="composer logo"/>
     <img width="14" />
-    <img src="https://skillicons.dev/icons?i=discord" height="55" alt="discord logo"/>
+    <img src="https://skillicons.dev/icons?i=discord" height="60" alt="discord logo"/>
     <img width="14" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" height="55" alt="slack logo"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" height="60" alt="slack logo"/>
 </div>
 <div align="center">
     <img width="14" />
-    <img src="https://github.com/sempostma/office365-icons/blob/master/png/64/excel.png" height="55" alt="excel logo"/>
+    <img src="https://github.com/sempostma/office365-icons/blob/master/png/64/excel.png" height="60" alt="excel logo"/>
     <img width="14" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="55" alt="Power_BI logo"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="60" alt="Power_BI logo"/>
     <img width="14" />
-    <img src="https://user-images.githubusercontent.com/57473810/120269504-f312f480-c275-11eb-9c0a-46255b2dc752.png" height="55" alt="discord logo"/>
+    <img src="https://user-images.githubusercontent.com/57473810/120269504-f312f480-c275-11eb-9c0a-46255b2dc752.png" height="60" alt="discord logo"/>
 </div>
 <div align="center">
     <img width="14" />
-    <img src="https://skillicons.dev/icons?i=windows" height="55" alt="windows logo"/>
+    <img src="https://skillicons.dev/icons?i=windows" height="60" alt="windows logo"/>
     <img width="14" />
-    <img src="https://skillicons.dev/icons?i=linux" height="55" alt="linux logo"/>
+    <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"/>
     <img width="14" />
-    <img src="https://skillicons.dev/icons?i=ubuntu" height="55" alt="ubuntu logo"/>
+    <img src="https://skillicons.dev/icons?i=ubuntu" height="60" alt="ubuntu logo"/>
     <img width="14" />
-    <img src="https://skillicons.dev/icons?i=powershell" height="55" alt="powershell logo"/>
+    <img src="https://skillicons.dev/icons?i=powershell" height="60" alt="powershell logo"/>
     <img width="14" />
-    <img src="https://skillicons.dev/icons?i=npm" height="55" alt="npm logo"/>
+    <img src="https://skillicons.dev/icons?i=npm" height="60" alt="npm logo"/>
 </div>
 
 ###
