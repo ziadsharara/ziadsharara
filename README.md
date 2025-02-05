@@ -1,11 +1,9 @@
 <h1 align= "center"><b>Salve Folks! 👾, Here is Eldeeb 💀</b></h1>
 
 
-<h4 align= "center"> 👨‍💻 Aspiring Back-End Developer | Cybersecurity Enthusiast
+A **Back-End Developer**.
 
-I'm currently studying programming with a focus on <b>back-end development</b>, and I have a strong interest in <b>CyberSecurity</b>. I'm passionate about creating efficient, secure, and scalable systems. Always eager to learn new technologies and explore the latest trends in tech.
-
- </h4>
+<p> Building robust, scalable, and efficient systems is my passion. I specialize in creating clean and optimized back-end solutions, with a focus on performance and reliability. </p>
 
 
 <div align= "center">
