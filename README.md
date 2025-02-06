@@ -1,3 +1,5 @@
+<img src="images/banner.png"/>
+
 <h1 align= "center"><b>Salve Folks! 👾, Here is Eldeeb 💀</b></h1>
 
 <div align="center">
