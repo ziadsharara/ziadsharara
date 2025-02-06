@@ -106,8 +106,8 @@ A <strong>Back-End Developer</strong> and <strong>Database Management</strong>.
 
  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ziadsharara&theme=vision-friendly-dark)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=ziadsharara&theme=vision-friendly-dark)
 
- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ziadsharara&theme=vision-friendly-dark)
 
 
 </div>
