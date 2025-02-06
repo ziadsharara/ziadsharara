@@ -1,7 +1,7 @@
 <h1 align= "center"><b>Salve Folks! 👾, Here is Eldeeb 💀</b></h1>
 
 <div align="center">
-A <strong>Back-End Developer</strong>, <strong>API Developer</strong> and <strong>Database Management</strong>.
+A <strong>Back-End Developer</strong> and <strong>Database Management</strong>.
 </div>
 <br>
 <div align="center">
