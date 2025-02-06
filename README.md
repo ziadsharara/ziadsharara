@@ -100,10 +100,26 @@ A <strong>Back-End Developer</strong> and <strong>Database Management</strong>.
 </div>
 
 
-## 🎨 My Portfolio  
-🚀 **Explore my work:**  
+# 🚀 GitHub Profile
 
-[![🚀 Visit My Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6347?style=flat&logo=github&logoColor=white&labelColor=black)](https://ziadsharara.github.io/Portfolio/)
+👋 Welcome to my personal portfolio. Check out my work and projects by visiting my GitHub Pages portfolio:
+
+<a href="https://ziadsharara.github.io/Portfolio/" target="_blank">
+  <button style="
+    background: linear-gradient(135deg, #FF6347, #FF4500); 
+    color: white; 
+    font-size: 20px; 
+    font-weight: bold; 
+    padding: 16px 32px; 
+    border-radius: 50px; 
+    border: none; 
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    cursor: pointer;
+  ">
+    🌐 Visit My Portfolio
+  </button>
+</a>
+
 
 
 
