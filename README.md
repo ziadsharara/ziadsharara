@@ -100,8 +100,9 @@ A <strong>Back-End Developer</strong> and <strong>Database Management</strong>.
 </div>
 
 
-## 🌟 My Portfolio
-🚀 **Check it out here:** [![Portfolio](https://img.shields.io/badge/My_Portfolio-Live-blue?style=for-the-badge)](https://ziadsharara.github.io/Portfolio/)
+## 🚀 My Portfolio
+🌍 Visit my portfolio: [**Click Here**](https://ziadsharara.github.io/Portfolio/)  
+🎨 Showcasing my projects, skills, and more!
 
 
 
