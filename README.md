@@ -115,6 +115,14 @@ A <strong>Back-End Developer</strong> and <strong>Database Management</strong>.
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ziadsharara&theme=vision-friendly-dark)
 
 
+## Github Achievements
+
+![Github Streaks](https://github-profile-trophy.vercel.app/?username=SPiercer&theme=tokyonight&row=1&column=8)
+
+<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
+
+
+
 
 </div>
 
