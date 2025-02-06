@@ -102,9 +102,9 @@ A <strong>Back-End Developer</strong> and <strong>Database Management</strong>.
 
 
 ## Statistics 
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohamedselim2&show_icons=true&theme=radical)  -->
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ziadsharara&show_icons=true&theme=radical)  
 
- <!--  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedselim2&theme=vision-friendly-dark) -->
+ ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ziadsharara&theme=vision-friendly-dark)
 
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ziadsharara&theme=vision-friendly-dark" alt="GitHub Streak" />
