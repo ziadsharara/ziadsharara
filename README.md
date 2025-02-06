@@ -103,7 +103,7 @@ A <strong>Back-End Developer</strong> and <strong>Database Management</strong>.
 ## 🎨 My Portfolio  
 🚀 **Explore my work:**  
 
-[![🚀 Visit My Portfolio](https://www.google.com/imgres?q=click%20here%20icon&imgurl=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F14018%2F14018827.png&imgrefurl=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fclick-here_14018827&docid=rVs2Tz5bNRSRWM&tbnid=qzDzBq5dYD6XVM&vet=12ahUKEwj5i5nz26-LAxUtU6QEHWQKExEQM3oECBYQAA..i&w=512&h=512&hcb=2&ved=2ahUKEwj5i5nz26-LAxUtU6QEHWQKExEQM3oECBYQAA)](https://ziadsharara.github.io/Portfolio/)
+[![🚀 Visit My Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6347?style=flat&logo=github&logoColor=white&labelColor=black)](https://ziadsharara.github.io/Portfolio/)
 
 
 
