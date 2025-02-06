@@ -99,6 +99,12 @@ A <strong>Back-End Developer</strong> and <strong>Database Management</strong>.
     <img src="https://skillicons.dev/icons?i=npm" height="60" alt="npm logo" />
 </div>
 
+
+## 🌟 My Portfolio
+🚀 **Check it out here:** [![Portfolio](https://img.shields.io/badge/My_Portfolio-Live-blue?style=for-the-badge)](https://ziadsharara.github.io/Portfolio/)
+
+
+
 ## Get in Touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ziad-sharara)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ziad.shararaa@gmail.com)
