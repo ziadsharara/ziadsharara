@@ -21,24 +21,26 @@ A **Back-End Developer**, **API Developer** and **Database Management**.
 
 <div align="center">
     <img width="14" />
-    <img src="https://skillicons.dev/icons?i=js" height="60" alt="JS logo" />
-    <img width="14" />
     <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo" />
     <img width="14" />
     <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo" />
     <img width="14" />
-    <img src="https://skillicons.dev/icons?i=csharp" height="60" alt="C# logo" />
+    <img src="https://skillicons.dev/icons?i=js" height="60" alt="JS logo" />
+    <img width="14" />
+    <img src="https://skillicons.dev/icons?i=ts" height="60" alt="TypeScript logo" />
+    <img width="14" />
+    <img src="https://skillicons.dev/icons?i=cs" height="60" alt="C# logo" />
 </div>
 
 <div align="center">
     <img width="14" />
-    <img src="https://skillicons.dev/icons?i=aspnet" height="60" alt="ASP.NET Core logo" />
-    <img width="14" />
     <img src="https://skillicons.dev/icons?i=dotnet" height="60" alt=".NET Core logo" />
     <img width="14" />
-    <img src="https://skillicons.dev/icons?i=entityframework" height="60" alt="Entity Framework Core logo" />
-    <img width="14" />
     <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="PostgreSQL logo" />
+    <img width="14" />
+    <img src="https://skillicons.dev/icons?i=sqlite" height="60" alt="Sql logo" />
+    <img width="14" />
+    <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="MySql logo" />
     <img width="14" />
     <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="MongoDB logo" />
 </div>
@@ -47,11 +49,28 @@ A **Back-End Developer**, **API Developer** and **Database Management**.
     <img width="14" />
     <img src="https://skillicons.dev/icons?i=git" height="60" alt="Git logo" />
     <img width="14" />
+    <img src="https://skillicons.dev/icons?i=github" height="60" alt="GitHub logo" />
+    <img width="14" />
     <img src="https://skillicons.dev/icons?i=docker" height="60" alt="Docker logo" />
     <img width="14" />
     <img src="https://skillicons.dev/icons?i=azure" height="60" alt="Azure logo" />
     <img width="14" />
     <img src="https://skillicons.dev/icons?i=aws" height="60" alt="AWS logo" />
+    <img width="14" />
+    <img src="https://skillicons.dev/icons?i=kubernetes" height="60" alt="kubernetes logo" />
+    <img width="14" />
+    <img src="https://skillicons.dev/icons?i=redis" height="60" alt="redis logo" />
+</div>
+
+<div align="center">
+    <img width="14" />
+    <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo" />
+    <img width="14" />
+    <img src="https://skillicons.dev/icons?i=visualstudio" height="60" alt="visualstudio logo" />
+    <img width="14" />
+    <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo" />
+    <img width="14" />
+    <img src="https://skillicons.dev/icons?i=discord" height="60" alt="discord logo" />
 </div>
 
 <div align="center">
@@ -71,11 +90,11 @@ A **Back-End Developer**, **API Developer** and **Database Management**.
 </div>
 
 ## Get in Touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eldeeb0x)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ziad.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ziad-sharara)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ziad.shararaa@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/eldeeb0x)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Mohamedselim2&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=ziadsharara&color=brightgreen)
 
 
 ## Statistics 
@@ -84,16 +103,16 @@ A **Back-End Developer**, **API Developer** and **Database Management**.
  <!--  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedselim2&theme=vision-friendly-dark) -->
 
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamedselim2&theme=vision-friendly-dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ziadsharara&theme=vision-friendly-dark" alt="GitHub Streak" />
 
 </div>
 
 ---
 
 ## Get in Touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eldeeb0x/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ziadehab.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ziad-sharara/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ziad.shararaa@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/eldeeb0x)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Mohamedselim2&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=ziadsharara&color=brightgreen)
 
