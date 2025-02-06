@@ -100,9 +100,9 @@ A <strong>Back-End Developer</strong> and <strong>Database Management</strong>.
 </div>
 
 
-# 🚀 GitHub Profile
+# 🚀 My Portfolio
 
-👋 Welcome to my personal portfolio. Check out my work and projects by visiting my GitHub Pages portfolio:
+👋 Welcome to my personal portfolio. Check out my work and projects by visiting my Portfolio Website:
 
 <a href="https://ziadsharara.github.io/Portfolio/" target="_blank">
   <button style="
