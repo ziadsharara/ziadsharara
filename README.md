@@ -100,9 +100,11 @@ A <strong>Back-End Developer</strong> and <strong>Database Management</strong>.
 </div>
 
 
-## 🚀 My Portfolio
-🌍 Visit my portfolio: [**Click Here**](https://ziadsharara.github.io/Portfolio/)  
-🎨 Showcasing my projects, skills, and more!
+## 🎨 My Portfolio
+🚀 Explore my work: [**Visit Portfolio**](https://ziadsharara.github.io/Portfolio/)  
+
+![Portfolio Preview](https://via.placeholder.com/800x400?text=My+Portfolio)
+
 
 
 
