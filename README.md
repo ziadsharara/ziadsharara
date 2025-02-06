@@ -1,8 +1,11 @@
 <h1 align= "center"><b>Salve Folks! 👾, Here is Eldeeb 💀</b></h1>
 
-
+<div align="center">
 A **Back-End Developer**, **API Developer** and **Database Management**.
+</div>
+<div align="center">
 <p> Building robust, scalable, and efficient systems is my passion. I specialize in creating clean and optimized back-end solutions, with a focus on performance and reliability. </p>
+</div>
 
 
 <div align= "center">
