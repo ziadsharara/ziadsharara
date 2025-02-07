@@ -81,6 +81,8 @@ A <strong>Back-End Developer</strong> and <strong>Database Management</strong>.
     <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo" />
     <img width="14" />
     <img src="https://skillicons.dev/icons?i=discord" height="60" alt="discord logo" />
+    <img width="14" />
+    <img src="https://skillicons.dev/icons?i=notion" height="60" alt="notion logo" />
 </div>
 
 <div align="center">
