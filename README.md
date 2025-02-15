@@ -11,7 +11,7 @@ A <strong>Back-End Developer</strong> and <strong>Database Management</strong>.
 </div>
 <br>
 <div align="center">
-<p> Building robust, scalable, and efficient systems is my passion. I specialize in creating clean and optimized back-end solutions, with a focus on performance and reliability. </p>
+<p> Build robust, scalable, and efficient systems with passion. I specialize in creating clean and optimized back-end solutions, with a focus on performance and reliability. </p>
 </div>
 
 
