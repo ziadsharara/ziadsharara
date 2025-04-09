@@ -55,6 +55,9 @@ A <strong>Back-End Developer</strong> and <strong>Database Management</strong>.
     <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo" />
     <img width="14" />
     <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" />
+</div>
+
+<div align="center">
     <img width="14" />
     <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="PostgreSQL logo" />
     <img width="14" />
