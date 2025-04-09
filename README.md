@@ -46,6 +46,8 @@ A <strong>Back-End Developer</strong> and <strong>Database Management</strong>.
     <img width="14" />
     <img src="https://skillicons.dev/icons?i=dotnet" height="60" alt=".NET Core logo" />
     <img width="14" />
+    <img src="https://skillicons.dev/icons?i=node" height="60" alt="Node js logo" />
+    <img width="14" />
     <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="PostgreSQL logo" />
     <img width="14" />
     <img src="https://skillicons.dev/icons?i=sqlite" height="60" alt="Sql logo" />
