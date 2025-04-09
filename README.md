@@ -48,6 +48,14 @@ A <strong>Back-End Developer</strong> and <strong>Database Management</strong>.
     <img width="14" />
     <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="Node js logo" />
     <img width="14" />
+    <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo" />
+    <img width="14" />
+    <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo" />
+    <img width="14" />
+    <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo" />
+    <img width="14" />
+    <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" />
+    <img width="14" />
     <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="PostgreSQL logo" />
     <img width="14" />
     <img src="https://skillicons.dev/icons?i=sqlite" height="60" alt="Sql logo" />
