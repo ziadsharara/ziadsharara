@@ -150,9 +150,9 @@ A <strong>Back-End Developer</strong> and <strong>Database Management</strong>.
 
 ## Statistics 
  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ziadsharara&show_icons=true&theme=radical)  
-
+<!--
  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ziadsharara&theme=vision-friendly-dark)
-
+-->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ziadsharara&theme=vision-friendly-dark)
 
 <!--
