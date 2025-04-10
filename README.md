@@ -114,7 +114,7 @@ A <strong>Back-End Developer</strong> and <strong>Database Management</strong>.
     <img src="https://skillicons.dev/icons?i=npm" height="60" alt="npm logo" />
 </div>
 
-
+<!--
 # 🚀 My Portfolio
 
 👋 Welcome to my personal portfolio. Check out my work and projects by visiting my Portfolio Website:
@@ -135,7 +135,7 @@ A <strong>Back-End Developer</strong> and <strong>Database Management</strong>.
   </button>
 </a>
 
-
+-->
 
 
 
