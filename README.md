@@ -30,13 +30,13 @@ A <strong>Back-End Developer</strong> and <strong>Database Management</strong>.
 ### Skills:
 
 <div align="center">
-    <img width="14" />
+    <img width="10" />
     <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo" />
-    <img width="14" />
+    <img width="10" />
     <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo" />
-    <img width="14" />
+    <img width="10" />
     <img src="https://skillicons.dev/icons?i=js" height="60" alt="JS logo" />
-    <img width="14" />
+    <img width="10" />
     <img src="https://skillicons.dev/icons?i=ts" height="60" alt="TypeScript logo" />
 <!--     <img width="14" />
     <img src="https://skillicons.dev/icons?i=cs" height="60" alt="C# logo" /> -->
@@ -45,72 +45,72 @@ A <strong>Back-End Developer</strong> and <strong>Database Management</strong>.
 <div align="center">
 <!--     <img width="14" />
     <img src="https://skillicons.dev/icons?i=dotnet" height="60" alt=".NET Core logo" /> -->
-    <img width="14" />
+    <img width="10" />
     <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="Node js logo" />
-    <img width="14" />
+    <img width="10" />
     <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo" />
-    <img width="14" />
+    <img width="10" />
     <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo" />
-    <img width="14" />
+    <img width="10" />
     <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo" />
-    <img width="14" />
+    <img width="10" />
     <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" />
 </div>
 
 <div align="center">
-    <img width="14" />
+    <img width="10" />
     <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="PostgreSQL logo" />
-    <img width="14" />
+    <img width="10" />
     <img src="https://skillicons.dev/icons?i=sqlite" height="60" alt="Sql logo" />
-    <img width="14" />
+    <img width="10" />
     <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="MySql logo" />
-    <img width="14" />
+    <img width="10" />
     <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="MongoDB logo" />
 </div>
 
 <div align="center">
-    <img width="14" />
+    <img width="10" />
     <img src="https://skillicons.dev/icons?i=git" height="60" alt="Git logo" />
-    <img width="14" />
+    <img width="10" />
     <img src="https://skillicons.dev/icons?i=github" height="60" alt="GitHub logo" />
-    <img width="14" />
+    <img width="10" />
     <img src="https://skillicons.dev/icons?i=docker" height="60" alt="Docker logo" />
-    <img width="14" />
+    <img width="10" />
     <img src="https://skillicons.dev/icons?i=azure" height="60" alt="Azure logo" />
-    <img width="14" />
+    <img width="10" />
     <img src="https://skillicons.dev/icons?i=aws" height="60" alt="AWS logo" />
-    <img width="14" />
+    <img width="10" />
     <img src="https://skillicons.dev/icons?i=kubernetes" height="60" alt="kubernetes logo" />
-    <img width="14" />
+    <img width="10" />
     <img src="https://skillicons.dev/icons?i=redis" height="60" alt="redis logo" />
 </div>
 
 <div align="center">
-    <img width="14" />
+    <img width="10" />
     <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo" />
-    <img width="14" />
+    <img width="10" />
     <img src="https://skillicons.dev/icons?i=visualstudio" height="60" alt="visualstudio logo" />
-    <img width="14" />
+    <img width="10" />
     <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo" />
-    <img width="14" />
+    <img width="10" />
     <img src="https://skillicons.dev/icons?i=discord" height="60" alt="discord logo" />
-    <img width="14" />
+    <img width="10" />
     <img src="https://skillicons.dev/icons?i=notion" height="60" alt="notion logo" />
 </div>
 
 <div align="center">
-    <img width="14" />
+    <img width="10" />
     <img src="https://skillicons.dev/icons?i=windows" height="60" alt="Windows logo" />
-    <img width="14" />
+    <img width="10" />
     <img src="https://skillicons.dev/icons?i=linux" height="60" alt="Linux logo" />
-    <img width="14" />
+    <img width="10" />
     <img src="https://skillicons.dev/icons?i=ubuntu" height="60" alt="Ubuntu logo" />
 </div>
 
 <div align="center">
-    <img width="14" />
+    <img width="10" />
     <img src="https://skillicons.dev/icons?i=powershell" height="60" alt="PowerShell logo" />
-    <img width="14" />
+    <img width="10" />
     <img src="https://skillicons.dev/icons?i=npm" height="60" alt="npm logo" />
 </div>
 
