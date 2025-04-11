@@ -38,8 +38,8 @@ A <strong>Back-End Developer</strong> and <strong>Database Management</strong>.
     <img src="https://skillicons.dev/icons?i=js" height="60" alt="JS logo" />
     <img width="10" />
     <img src="https://skillicons.dev/icons?i=ts" height="60" alt="TypeScript logo" />
-<!--     <img width="14" />
-    <img src="https://skillicons.dev/icons?i=cs" height="60" alt="C# logo" /> -->
+    <img width="10" />
+    <img src="https://skillicons.dev/icons?i=cs" height="60" alt="C# logo" />
 </div>
 
 <div align="center">
