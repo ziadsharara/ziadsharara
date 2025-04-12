@@ -23,87 +23,91 @@ A <strong>Back-End Developer</strong> and <strong>Database Management</strong>.
 
 
 
-###
-
-<!-- 🎨 Skill Icons | Stylish Grid with Pulse Effect 🎨 -->
-
-<style>
-    .skills-grid {
-        display: grid;
-        grid-template-columns: repeat(auto-fit, minmax(60px, 1fr));
-        gap: 20px;
-        justify-items: center;
-        align-items: center;
-        max-width: 800px;
-        margin: auto;
-        padding: 20px;
-    }
-
-    .skill-icon {
-        background-color: #1e1e1e;
-        border-radius: 12px;
-        padding: 10px;
-        transition: transform 0.4s ease, box-shadow 0.4s ease, background-color 0.4s;
-        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
-    }
-
-    .skill-icon:hover {
-        transform: scale(1.15) rotate(1.5deg);
-        box-shadow: 0 8px 25px rgba(0, 0, 0, 0.25);
-        background-color: #2e2e2e;
-        animation: pulse 0.6s ease-in-out;
-    }
-
-    @keyframes pulse {
-        0% { transform: scale(1); }
-        50% { transform: scale(1.1); }
-        100% { transform: scale(1.05); }
-    }
-</style>
+<div align="center">
+    <img width="5" />
+    <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo" />
+    <img width="5" />
+    <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo" />
+    <img width="5" />
+    <img src="https://skillicons.dev/icons?i=js" height="60" alt="JS logo" />
+    <img width="5" />
+    <img src="https://skillicons.dev/icons?i=ts" height="60" alt="TypeScript logo" />
+    <img width="5" />
+    <img src="https://skillicons.dev/icons?i=cs" height="60" alt="C# logo" />
+</div>
 
 <div align="center">
-    <h3>🚀 My Tech Stack</h3>
+<!--     <img width="5" />
+    <img src="https://skillicons.dev/icons?i=dotnet" height="60" alt=".NET Core logo" /> -->
+    <img width="5" />
+    <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="Node js logo" />
+    <img width="5" />
+    <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo" />
+    <img width="5" />
+    <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo" />
+    <img width="5" />
+    <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo" />
+    <img width="5" />
+    <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" />
 </div>
 
-<div class="skills-grid">
-    <img src="https://skillicons.dev/icons?i=html" height="60" alt="html" class="skill-icon" />
-    <img src="https://skillicons.dev/icons?i=css" height="60" alt="css" class="skill-icon" />
-    <img src="https://skillicons.dev/icons?i=js" height="60" alt="js" class="skill-icon" />
-    <img src="https://skillicons.dev/icons?i=ts" height="60" alt="ts" class="skill-icon" />
-    <img src="https://skillicons.dev/icons?i=cs" height="60" alt="cs" class="skill-icon" />
-
-    <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs" class="skill-icon" />
-    <img src="https://skillicons.dev/icons?i=express" height="60" alt="express" class="skill-icon" />
-    <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs" class="skill-icon" />
-    <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs" class="skill-icon" />
-    <img src="https://skillicons.dev/icons?i=react" height="60" alt="react" class="skill-icon" />
-
-    <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgres" class="skill-icon" />
-    <img src="https://skillicons.dev/icons?i=sqlite" height="60" alt="sqlite" class="skill-icon" />
-    <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql" class="skill-icon" />
-    <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb" class="skill-icon" />
-
-    <img src="https://skillicons.dev/icons?i=git" height="60" alt="git" class="skill-icon" />
-    <img src="https://skillicons.dev/icons?i=github" height="60" alt="github" class="skill-icon" />
-    <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker" class="skill-icon" />
-    <img src="https://skillicons.dev/icons?i=azure" height="60" alt="azure" class="skill-icon" />
-    <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws" class="skill-icon" />
-    <img src="https://skillicons.dev/icons?i=kubernetes" height="60" alt="kubernetes" class="skill-icon" />
-    <img src="https://skillicons.dev/icons?i=redis" height="60" alt="redis" class="skill-icon" />
-
-    <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode" class="skill-icon" />
-    <img src="https://skillicons.dev/icons?i=visualstudio" height="60" alt="visualstudio" class="skill-icon" />
-    <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman" class="skill-icon" />
-    <img src="https://skillicons.dev/icons?i=discord" height="60" alt="discord" class="skill-icon" />
-    <img src="https://skillicons.dev/icons?i=notion" height="60" alt="notion" class="skill-icon" />
-
-    <img src="https://skillicons.dev/icons?i=windows" height="60" alt="windows" class="skill-icon" />
-    <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux" class="skill-icon" />
-    <img src="https://skillicons.dev/icons?i=ubuntu" height="60" alt="ubuntu" class="skill-icon" />
-    
-    <img src="https://skillicons.dev/icons?i=powershell" height="60" alt="powershell" class="skill-icon" />
-    <img src="https://skillicons.dev/icons?i=npm" height="60" alt="npm" class="skill-icon" />
+<div align="center">
+    <img width="5" />
+    <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="PostgreSQL logo" />
+    <img width="5" />
+    <img src="https://skillicons.dev/icons?i=sqlite" height="60" alt="Sql logo" />
+    <img width="5" />
+    <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="MySql logo" />
+    <img width="5" />
+    <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="MongoDB logo" />
 </div>
+
+<div align="center">
+    <img width="5" />
+    <img src="https://skillicons.dev/icons?i=git" height="60" alt="Git logo" />
+    <img width="5" />
+    <img src="https://skillicons.dev/icons?i=github" height="60" alt="GitHub logo" />
+    <img width="5" />
+    <img src="https://skillicons.dev/icons?i=docker" height="60" alt="Docker logo" />
+    <img width="5" />
+    <img src="https://skillicons.dev/icons?i=azure" height="60" alt="Azure logo" />
+    <img width="5" />
+    <img src="https://skillicons.dev/icons?i=aws" height="60" alt="AWS logo" />
+    <img width="5" />
+    <img src="https://skillicons.dev/icons?i=kubernetes" height="60" alt="kubernetes logo" />
+    <img width="5" />
+    <img src="https://skillicons.dev/icons?i=redis" height="60" alt="redis logo" />
+</div>
+
+<div align="center">
+    <img width="5" />
+    <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo" />
+    <img width="5" />
+    <img src="https://skillicons.dev/icons?i=visualstudio" height="60" alt="visualstudio logo" />
+    <img width="5" />
+    <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo" />
+    <img width="5" />
+    <img src="https://skillicons.dev/icons?i=discord" height="60" alt="discord logo" />
+    <img width="5" />
+    <img src="https://skillicons.dev/icons?i=notion" height="60" alt="notion logo" />
+</div>
+
+<div align="center">
+    <img width="5" />
+    <img src="https://skillicons.dev/icons?i=windows" height="60" alt="Windows logo" />
+    <img width="5" />
+    <img src="https://skillicons.dev/icons?i=linux" height="60" alt="Linux logo" />
+    <img width="5" />
+    <img src="https://skillicons.dev/icons?i=ubuntu" height="60" alt="Ubuntu logo" />
+</div>
+
+<div align="center">
+    <img width="5" />
+    <img src="https://skillicons.dev/icons?i=powershell" height="60" alt="PowerShell logo" />
+    <img width="5" />
+    <img src="https://skillicons.dev/icons?i=npm" height="60" alt="npm logo" />
+</div>
+
 
 
 
