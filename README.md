@@ -2,6 +2,10 @@
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Hello+Advanturer+!;Welcome+to+my+world.;I+hope+you+will+enjoy+your+stay+and+my+code.;but+be+careful+of+the+bugs,+there+are+everywhere!;Good+luck+!&font=Press%20Start%202P&width=900&height=50&duration=4000&pause=1000">
 
+<div align= "center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Aref+Ruqaa&size=66&letterSpacing=&duration=3000&pause=1000&color=F70D0D&center=true&vCenter=true&width=600&height=100&lines=%D8%A7%D9%84%D8%AF%D9%8A%D8%A8)](https://git.io/typing-svg)
+
 <!-- <img src="images/gnome.gif" alt="side Gif" height="200"/> -->
 <!-- 
 <h1 align= "center"><b>Salve Folks! 👾, Here is Eldeeb 💀</b></h1>
@@ -15,7 +19,6 @@ A <strong>Back-End Developer</strong> and <strong>Database Management</strong>.
 </div>
 -->
 
-<div align= "center">
 
 <div style="text-align: center;">
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
@@ -24,7 +27,7 @@ A <strong>Back-End Developer</strong> and <strong>Database Management</strong>.
 </div>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Aref+Ruqaa&size=66&letterSpacing=&duration=3000&pause=1000&color=F70D0D&center=true&vCenter=true&width=600&height=100&lines=%D8%A7%D9%84%D8%AF%D9%8A%D8%A8)](https://git.io/typing-svg)
+
 
 
 
