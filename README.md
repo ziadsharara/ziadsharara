@@ -177,9 +177,9 @@ I'm a passionate *Backend Developer* specializing in *Node.js* and *.NET* techno
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=mrXrobot26&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mrXrobot26&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrXrobot26&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=ziadsharara&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ziadsharara&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ziadsharara&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ## 📺 Featured Content
 
