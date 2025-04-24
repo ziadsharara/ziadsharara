@@ -1,7 +1,7 @@
 <!-- <img src="images/banner.png"/> -->
-
+<!-- 
 <img src="https://readme-typing-svg.demolab.com/?lines=Hello+Advanturer+!;Welcome+to+my+world.;I+hope+you+will+enjoy+your+stay+and+my+code.;but+be+careful+of+the+bugs,+there+are+everywhere!;Good+luck+!&font=Press%20Start%202P&width=900&height=50&duration=4000&pause=1000">
-
+-->
 <!--
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Aref+Ruqaa&size=66&letterSpacing=&duration=3000&pause=1000&color=F70D0D&center=true&vCenter=true&width=600&height=100&lines=%D8%A7%D9%84%D8%AF%D9%8A%D8%A8)](https://git.io/typing-svg) 
 -->
@@ -19,13 +19,13 @@ A <strong>Back-End Developer</strong> and <strong>Database Management</strong>.
 <p> Build robust, scalable, and efficient systems with passion. I specialize in creating clean and optimized back-end solutions, with a focus on performance and reliability. </p>
 </div>
 -->
-
+<!--
 <div style="text-align: center;">
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
     <img src="/11.gif" alt="cover" style="width: 3000px;">
   </a>
 </div>
-
+-->
 <!--
 <div align= "center">
 
@@ -134,3 +134,65 @@ A <strong>Back-End Developer</strong> and <strong>Database Management</strong>.
 ![Github Streaks](https://github-profile-trophy.vercel.app/?username=SPiercer&theme=tokyonight&row=1&column=8)
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 -->
+
+
+
+
+# Hi there, I'm Ziad Sharara 👋
+
+I'm a passionate *Backend Developer* specializing in *Node.js* and *.NET* technologies. I focus on building scalable, efficient, and secure applications that deliver exceptional performance. My expertise lies in creating robust backend systems that power seamless user experiences.
+
+## 🚀 About Me
+
+- 🎓 Final-year *Software Engineering* student specializing in backend development
+- 💻 Experienced in *Node.js, **.NET Core, **C#, **SQL, and **REST API* design
+- 📊 Database architecture enthusiast with expertise in performance optimization
+- 🔒 Strong foundation in cybersecurity and secure coding practices
+- 🌱 Constantly learning and sharing insights through educational content
+
+## 💻 Tech Stack
+
+### Core Technologies
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
+### Databases
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Tools & Other
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ziad-sharara)
+[![X (Twitter)](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/eldeeb0x)
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=mrXrobot26&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mrXrobot26&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrXrobot26&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+## 📺 Featured Content
+
+### Node.js & .NET Tutorials
+- *RESTful API Development with Node.js*
+- *Microservices Architecture with .NET Core*
+- *Authentication & Authorization in Modern Web Applications*
+- *Database Performance Optimization for Enterprise Applications*
+
+## 👀 Visitor Count
+
+![Visitor Count](https://profile-counter.glitch.me/{ziadsharara}/count.svg)
+
+---
+
+### Let's build something amazing together! 🚀
