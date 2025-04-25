@@ -145,7 +145,7 @@ I'm a passionate *Backend Developer* specializing in *Node.js* and *.NET* techno
 ## 🚀 About Me
 
 - 🎓 Final-year *Software Engineering* student specializing in backend development
-- 💻 Experienced in *Node.js, **.NET Core, **C#, **SQL, and **REST API* design
+- 💻 Experienced in *Node.js*, *.NET Core*, *C#*, *SQL*, and *REST API* design
 - 📊 Database architecture enthusiast with expertise in performance optimization
 - 🔒 Strong foundation in cybersecurity and secure coding practices
 - 🌱 Constantly learning and sharing insights through educational content
