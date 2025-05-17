@@ -1,13 +1,13 @@
 <!-- <img src="images/banner.png"/> -->
-
+<!--
 <img src="https://readme-typing-svg.demolab.com/?lines=Hello+Advanturer+!;Welcome+to+my+world.;I+hope+you+will+enjoy+your+stay+and+my+code.;but+be+careful+of+the+bugs,+there+are+everywhere!;Good+luck+!&font=Press%20Start%202P&width=900&height=50&duration=4000&pause=1000">
-
-
+-->
+<!--
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Aref+Ruqaa&size=66&letterSpacing=&duration=3000&pause=1000&color=F70D0D&center=true&vCenter=true&width=600&height=100&lines=%D8%A7%D9%84%D8%AF%D9%8A%D8%A8)](https://git.io/typing-svg) 
-
-
+-->
+<!--
 <img src="images/gnome.gif" alt="side Gif" height="200"/> 
-
+-->
 <!-- 
 <h1 align= "center"><b>Salve Folks! 👾, Here is Eldeeb 💀</b></h1>
 
@@ -136,39 +136,41 @@ A <strong>Back-End Developer</strong> and <strong>Database Management</strong>.
 -->
 
 
-<!--
+
 
 # Hi there, I'm Ziad Sharara 👋
 
-I'm a passionate *Backend Developer* specializing in *Node.js* and *.NET* technologies. I focus on building scalable, efficient, and secure applications that deliver exceptional performance. My expertise lies in creating robust backend systems that power seamless user experiences.
+I'm a passionate *Full Stack Developer* specializing in *Node.js*, *React.js*, and *Tailwind CSS*. I focus on building modern, responsive, and high-performance web applications with clean architecture and smooth user experiences.
 
 ## 🚀 About Me
 
-- 🎓 Final-year *Software Engineering* student specializing in backend development
-- 💻 Experienced in *Node.js*, *.NET Core*, *C#*, *SQL*, and *REST API* design
-- 📊 Database architecture enthusiast with expertise in performance optimization
-- 🔒 Strong foundation in cybersecurity and secure coding practices
-- 🌱 Constantly learning and sharing insights through educational content
+- 🎓 Final-year *Software Engineering* student with a strong focus on full stack web development
+- 💻 Experienced in *Node.js*, *Express.js*, *React.js*, *Tailwind CSS*, and *REST API* design
+- 🧠 Strong problem-solving skills with a passion for writing clean and scalable code
+- 📦 Familiar with modern DevOps tools and CI/CD pipelines
+- 🌱 Constantly learning and building to stay ahead in the fast-moving web ecosystem
 
 ## 💻 Tech Stack
 
 ### Core Technologies
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Databases
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### Tools & Other
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 🌐 Connect With Me
 
@@ -183,11 +185,11 @@ I'm a passionate *Backend Developer* specializing in *Node.js* and *.NET* techno
 
 ## 📺 Featured Content
 
-### Node.js & .NET Tutorials
-- *RESTful API Development with Node.js*
-- *Microservices Architecture with .NET Core*
-- *Authentication & Authorization in Modern Web Applications*
-- *Database Performance Optimization for Enterprise Applications*
+### Node.js & React Tutorials
+- *Full Stack Web App with Node.js & React*
+- *Tailwind CSS Tips for Clean and Responsive UI*
+- *Authentication & JWT Flow in MERN Stack*
+- *MongoDB Performance & Schema Design Best Practices*
 
 ## 👀 Visitor Count
 
@@ -197,4 +199,4 @@ I'm a passionate *Backend Developer* specializing in *Node.js* and *.NET* techno
 
 ### Let's build something amazing together! 🚀
 
--->
+
