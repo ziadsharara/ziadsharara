@@ -140,12 +140,12 @@ A <strong>Back-End Developer</strong> and <strong>Database Management</strong>.
 
 # Hi there, I'm Ziad Sharara 👋
 
-I'm a passionate *Full Stack Developer* specializing in *Node.js*, *React.js*, and *Tailwind CSS*. I focus on building modern, responsive, and high-performance web applications with clean architecture and smooth user experiences.
+I'm a passionate *Back-End Developer* specializing in *Node.js* and building scalable APIs and server-side applications. I focus on creating modern, secure, and high-performance back-end systems with clean architecture and smooth integration with front-end technologies.
 
 ## 🚀 About Me
 
-- 🎓 Final-year *Software Engineering* student with a strong focus on full stack web development
-- 💻 Experienced in *Node.js*, *Express.js*, *React.js*, *Tailwind CSS*, and *REST API* design
+- 🎓 Final-year *Software Engineering* student with a strong focus on back-end web development
+- 💻 Experienced in *Node.js*, *Express.js*, *REST API* design, and server-side logic
 - 🧠 Strong problem-solving skills with a passion for writing clean and scalable code
 - 📦 Familiar with modern DevOps tools and CI/CD pipelines
 - 🌱 Constantly learning and building to stay ahead in the fast-moving web ecosystem
@@ -155,9 +155,7 @@ I'm a passionate *Full Stack Developer* specializing in *Node.js*, *React.js*, a
 ### Core Technologies
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -166,7 +164,6 @@ I'm a passionate *Full Stack Developer* specializing in *Node.js*, *React.js*, a
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### Tools & Other
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -186,11 +183,11 @@ I'm a passionate *Full Stack Developer* specializing in *Node.js*, *React.js*, a
 
 ## 📺 Featured Content
 
-### Node.js & React Tutorials
-- *Full Stack Web App with Node.js & React*
-- *Tailwind CSS Tips for Clean and Responsive UI*
-- *Authentication & JWT Flow in MERN Stack*
+### Node.js Tutorials & Practices
+- *Building Scalable REST APIs with Node.js & Express*
+- *Authentication & JWT Flow in Back-End Systems*
 - *MongoDB Performance & Schema Design Best Practices*
+- *Handling File Uploads, Validation, and Middleware Design*
 
 ## 👀 Visitor Count
 
@@ -199,5 +196,6 @@ I'm a passionate *Full Stack Developer* specializing in *Node.js*, *React.js*, a
 ---
 
 ### Let's build something amazing together! 🚀
+
 
 
