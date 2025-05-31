@@ -136,7 +136,7 @@ A <strong>Back-End Developer</strong> and <strong>Database Management</strong>.
 -->
 
 
-
+<!-- 
 
 # Hi there, I'm Ziad Sharara 👋
 
@@ -197,5 +197,5 @@ I'm a passionate *Back-End Developer* specializing in *Node.js* and building sca
 
 ### Let's build something amazing together! 🚀
 
-
+-->
 
