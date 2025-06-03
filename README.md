@@ -8,7 +8,7 @@
 
 ### Hey, Elذeeb's here
 
-<img src="11.gif" height=350/> 
+<img src="11.gif" height=300/> 
 
 <!-- 
 <h1 align= "center"><b>Salve Folks! 👾, Here is Eldeeb 💀</b></h1>
