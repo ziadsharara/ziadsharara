@@ -5,11 +5,11 @@
 <!--
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Aref+Ruqaa&size=66&letterSpacing=&duration=3000&pause=1000&color=F70D0D&center=true&vCenter=true&width=600&height=100&lines=%D8%A7%D9%84%D8%AF%D9%8A%D8%A8)](https://git.io/typing-svg) 
 -->
-
+<!--
 ### Hey, Elذeeb's here
 
 <img src="11.gif" height=300/> 
-
+-->
 <!-- 
 <h1 align= "center"><b>Salve Folks! 👾, Here is Eldeeb 💀</b></h1>
 
@@ -138,7 +138,7 @@ A <strong>Back-End Developer</strong> and <strong>Database Management</strong>.
 -->
 
 
-<!-- 
+
 
 # Hi there, I'm Ziad Sharara 👋
 
@@ -177,12 +177,6 @@ I'm a passionate *Back-End Developer* specializing in *Node.js* and building sca
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ziad-sharara)
 [![X (Twitter)](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/eldeeb0x)
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=ziadsharara&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ziadsharara&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ziadsharara&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
 ## 📺 Featured Content
 
 ### Node.js Tutorials & Practices
@@ -190,6 +184,14 @@ I'm a passionate *Back-End Developer* specializing in *Node.js* and building sca
 - *Authentication & JWT Flow in Back-End Systems*
 - *MongoDB Performance & Schema Design Best Practices*
 - *Handling File Uploads, Validation, and Middleware Design*
+
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=ziadsharara&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ziadsharara&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ziadsharara&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
 
 ## 👀 Visitor Count
 
@@ -199,5 +201,5 @@ I'm a passionate *Back-End Developer* specializing in *Node.js* and building sca
 
 ### Let's build something amazing together! 🚀
 
--->
+
 
