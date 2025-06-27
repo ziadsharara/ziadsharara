@@ -190,7 +190,6 @@ I'm a passionate *Back-End Developer* specializing in *Node.js* and building sca
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=ziadsharara&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ziadsharara&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ziadsharara&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
