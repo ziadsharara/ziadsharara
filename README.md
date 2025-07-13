@@ -142,29 +142,34 @@ A <strong>Back-End Developer</strong> and <strong>Database Management</strong>.
 
 # Hi there, I'm Ziad Sharara 👋
 
-I'm a passionate *Back-End Developer* specializing in *Node.js* and building scalable APIs and server-side applications. I focus on creating modern, secure, and high-performance back-end systems with clean architecture and smooth integration with front-end technologies.
+I'm a passionate *Full-Stack Developer* specializing in *Node.js - Express.js/Nest.js* and *React/Next.js*. I build modern, secure, and high-performance applications — both on the back-end and front-end — with clean architecture and seamless user experiences.
 
 ## 🚀 About Me
 
-- 🎓 Final-year *Software Engineering* student with a strong focus on back-end web development
-- 💻 Experienced in *Node.js*, *Express.js*, *REST API* design, and server-side logic
-- 🧠 Strong problem-solving skills with a passion for writing clean and scalable code
-- 📦 Familiar with modern DevOps tools and CI/CD pipelines
-- 🌱 Constantly learning and building to stay ahead in the fast-moving web ecosystem
+- 🎓 Final-year *Software Engineering* student with a strong focus on full-stack web development  
+- 💻 Experienced in *Node.js*, *Express.js*, *React.js*, and *Next.js*  
+- 🔐 Strong grasp of authentication flows, API design, and scalable architecture  
+- ⚙️ Familiar with modern DevOps tools, Docker, and CI/CD pipelines  
+- 🌱 Always learning and exploring the latest web technologies to stay ahead in the field  
 
 ## 💻 Tech Stack
 
 ### Core Technologies
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+
+### Front-End Technologies
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### Tools & Other
@@ -176,23 +181,22 @@ I'm a passionate *Back-End Developer* specializing in *Node.js* and building sca
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ziad-sharara)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ziad-sharara)  
 [![X (Twitter)](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/eldeeb0x)
 
 ## 📺 Featured Content
 
-### Node.js Tutorials & Practices
-- *Building Scalable REST APIs with Node.js & Express*
-- *Authentication & JWT Flow in Back-End Systems*
-- *MongoDB Performance & Schema Design Best Practices*
-- *Handling File Uploads, Validation, and Middleware Design*
-
+### Full-Stack Projects & Practices
+- *Building Scalable REST APIs with Node.js & Express*  
+- *Authentication & JWT Flow in Full-Stack Applications*  
+- *React & Next.js Front-End Integration with REST APIs*  
+- *MongoDB Schema Design & Performance Tips*  
+- *Handling File Uploads, Form Validation, and Middleware Design*
 
 ## 📊 GitHub Stats
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ziadsharara&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ziadsharara&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
 
 ## 👀 Visitor Count
 
