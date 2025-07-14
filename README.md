@@ -187,11 +187,6 @@ I'm a passionate *Back-End Developer* specializing in *Node.js* and building sca
 - *MongoDB Performance & Schema Design Best Practices*
 - *Handling File Uploads, Validation, and Middleware Design*
 
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=ziadsharara&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-
 ---
 
 ### Let's build something amazing together! 🚀
