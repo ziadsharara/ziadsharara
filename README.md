@@ -142,102 +142,66 @@ A <strong>Back-End Developer</strong> and <strong>Database Management</strong>.
 
 # Hi there, I'm Ziad Sharara 👋
 
-I'm a passionate **Full-Stack Web Developer** with a strong focus on **Node.js**, **Express.js** ,**Nest.js**, **React.js**, and **Next.js**. I specialize in building secure, scalable, and modern web applications with clean architecture and an eye for performance and user experience.
-
----
+I'm a passionate *Back-End Developer* specializing in *Node.js* and building scalable APIs and server-side applications. I focus on creating modern, secure, and high-performance back-end systems with clean architecture and smooth integration with front-end technologies.
 
 ## 🚀 About Me
 
-- 👨‍💻 Full-Stack Developer focused on delivering modern web experiences from front to back
-- 🎓 Final-year *Software Engineering* student passionate about real-world development
-- 🔧 Experienced in building RESTful APIs, authentication systems, and interactive UIs
-- 🧠 Strong problem-solving skills and a love for writing clean, testable, and scalable code
-- 🚢 Comfortable with CI/CD, Docker, Git workflows, and cloud deployment
-- 📚 Always learning and following the latest best practices in web development
-
----
+- 🎓 Final-year *Software Engineering* student with a strong focus on back-end web development
+- 💻 Experienced in *Node.js*, *Express.js*, *REST API* design, and server-side logic
+- 🧠 Strong problem-solving skills with a passion for writing clean and scalable code
+- 📦 Familiar with modern DevOps tools and CI/CD pipelines
+- 🌱 Constantly learning and building to stay ahead in the fast-moving web ecosystem
 
 ## 💻 Tech Stack
 
-### 🌐 Front-End
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### 🛠 Back-End
+### Core Technologies
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
-### 🛢 Databases
+### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### 🧰 Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### Tools & Other
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 🧩 My Workflow
-
-1. **Plan** – Define the requirements and user stories clearly  
-2. **Design** – Create scalable structure and modular components  
-3. **Build** – Code using best practices in both front-end and back-end  
-4. **Test** – Validate endpoints, UI, and integration  
-5. **Deploy** – Ship with Docker / Vercel / GitHub Actions
-
----
-
-## 🔥 Featured Content
-
-### Full-Stack Practices I Use
-- 🔐 JWT Authentication with refresh tokens and secure cookies  
-- 🧱 API Architecture using Controllers, Services, Middleware  
-- 📁 Clean Code Structure with reusable components & utilities  
-- 🧪 Form Validation with `zod`, `react-hook-form` and middlewares  
-- ⚙️ Error Handling, Logging, and Email Workflows (Nodemailer, Pino)  
-- ☁️ Deployment with Docker, Vercel, or Node environments
-
----
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ziad-sharara)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ziad-sharara)
 [![X (Twitter)](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/eldeeb0x)
 
----
+## 📺 Featured Content
 
-## 🧠 Learning & Building
+### Node.js Tutorials & Practices
+- *Building Scalable REST APIs with Node.js & Express*
+- *Authentication & JWT Flow in Back-End Systems*
+- *MongoDB Performance & Schema Design Best Practices*
+- *Handling File Uploads, Validation, and Middleware Design*
 
-I’m currently:
-- Working on scalable authentication systems with JWT & 2FA  
-- Mastering advanced Next.js features like App Router & SSR  
-- Exploring microservices architecture with Node & Docker
-
----
 
 ## 📊 GitHub Stats
 
+![](https://github-readme-stats.vercel.app/api?username=ziadsharara&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ziadsharara&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ziadsharara&theme=dark&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ziadsharara&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
----
 
 ## 👀 Visitor Count
 
-![Visitor Count](https://profile-counter.glitch.me/ziadsharara/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{ziadsharara}/count.svg)
 
 ---
 
 ### Let's build something amazing together! 🚀
-
 
 
 
