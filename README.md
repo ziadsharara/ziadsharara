@@ -139,57 +139,65 @@ A <strong>Back-End Developer</strong> and <strong>Database Management</strong>.
 
 
 
-
 # Hi there, I'm Ziad Sharara 👋
 
-I'm a passionate *Back-End Developer* specializing in *Node.js* and building scalable APIs and server-side applications. I focus on creating modern, secure, and high-performance back-end systems with clean architecture and smooth integration with front-end technologies.
+I'm a passionate **Back-End Developer** with a generalist mindset — capable of building robust, scalable, and secure back-end systems using multiple languages and frameworks. Whether it’s **Node.js**, **Express**, **NestJS**, or **PHP Laravel**, I focus on delivering clean architecture, high performance, and seamless integration with front-end solutions.
 
 ## 🚀 About Me
 
-- 🎓 Final-year *Software Engineering* student with a strong focus on back-end web development
-- 💻 Experienced in *Node.js*, *Express.js*, *REST API* design, and server-side logic
-- 🧠 Strong problem-solving skills with a passion for writing clean and scalable code
-- 📦 Familiar with modern DevOps tools and CI/CD pipelines
-- 🌱 Constantly learning and building to stay ahead in the fast-moving web ecosystem
+- 🎓 Final-year *Software Engineering* student with a strong focus on modern back-end web development  
+- 💻 Proficient in *Node.js*, *Express.js*, *Laravel*, and *REST API* design  
+- 🧠 Problem solver by nature with a passion for clean, scalable, and maintainable code  
+- 📦 Comfortable working with both SQL & NoSQL databases  
+- 🌱 Always exploring new technologies and development paradigms to stay ahead in the fast-evolving web world  
+
+---
 
 ## 💻 Tech Stack
 
-### Core Technologies
+### 🧩 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### 🧱 Frameworks & Technologies
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-### Databases
+### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Tools & Other
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+### 🛠️ Tools & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+---
+
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ziad-sharara)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ziad-sharara)  
 [![X (Twitter)](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/eldeeb0x)
+
+---
 
 ## 📺 Featured Content
 
-### Node.js Tutorials & Practices
-- *Building Scalable REST APIs with Node.js & Express*
-- *Authentication & JWT Flow in Back-End Systems*
-- *MongoDB Performance & Schema Design Best Practices*
-- *Handling File Uploads, Validation, and Middleware Design*
+### Node.js & Laravel Practices
+- *Building Scalable REST APIs with Node.js, Express.js, and Laravel*
+- *Authentication & Authorization Flow using JWT and Laravel Sanctum*
+- *Database Performance & Schema Design in MongoDB and MySQL*
+- *File Uploads, Validation, and Middleware Design in Both Stacks*
 
 ---
 
 ### Let's build something amazing together! 🚀
+
 
 
 
