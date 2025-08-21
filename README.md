@@ -141,15 +141,20 @@ A <strong>Back-End Developer</strong> and <strong>Database Management</strong>.
 
 # Hi there, I'm Ziad Sharara 👋
 
-I'm a passionate **Back-End Developer** with a generalist mindset — capable of building robust, scalable, and secure back-end systems using multiple languages and frameworks. Whether it’s **Node.js**, **Express**, **NestJS**, or **PHP Laravel**, I focus on delivering clean architecture, high performance, and seamless integration with front-end solutions.
+I'm a passionate **SAP Fiori Developer** and **Back-End Developer** with a strong foundation in building enterprise-grade applications.  
+Currently interning at CIC as a Fiori Developer, where I work with **SAPUI5**, **Fiori Elements**, and **OData services** to deliver modern, user-friendly enterprise applications.  
+
+Beyond SAP, I have hands-on experience in designing and implementing **robust, scalable back-end systems** using **Node.js**, **Express.js**, **ASP.NET Core**, and **Laravel**, with a focus on clean architecture, high performance, and secure integrations.
+
+---
 
 ## 🚀 About Me
 
-- 🎓 Final-year *Software Engineering* student with a strong focus on modern back-end web development  
-- 💻 Proficient in *Node.js*, *Express.js*, *Laravel*, and *REST API* design  
-- 🧠 Problem solver by nature with a passion for clean, scalable, and maintainable code  
-- 📦 Comfortable working with both SQL & NoSQL databases  
-- 🌱 Always exploring new technologies and development paradigms to stay ahead in the fast-evolving web world  
+- 🎓 Business student with strong passion for technology and software engineering  
+- 💻 Skilled in **SAP Fiori (SAPUI5, OData, Fiori Elements)** and modern back-end frameworks  
+- 🧠 Problem solver with a focus on scalable, maintainable, and high-performance solutions  
+- 📦 Experienced with both SQL & NoSQL databases  
+- 🌱 Continuously learning new technologies to expand my development toolkit  
 
 ---
 
@@ -158,17 +163,19 @@ I'm a passionate **Back-End Developer** with a generalist mindset — capable of
 ### 🧩 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### 🧱 Frameworks & Technologies
+![SAPUI5](https://img.shields.io/badge/SAPUI5-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ### 🛠️ Tools & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -179,6 +186,22 @@ I'm a passionate **Back-End Developer** with a generalist mindset — capable of
 
 ---
 
+## 📂 Featured Projects
+
+### 🛒 Happy Shop
+Scalable e-commerce backend with 30+ RESTful APIs, including authentication (JWT + RBAC), Paymob integration, image upload, cart, wishlist, coupons, reviews, and order management.  
+**Tech:** Node.js, Express.js, MongoDB, JWT, Railway  
+
+### 🦷 Ibtesama
+Backend for a digital platform to streamline dental clinic operations. Developed modular services for appointments, patient records, user roles, and clinical workflows.  
+**Tech:** Node.js, Express.js, MongoDB, JWT  
+
+### 💬 NGL-Clone
+Anonymous messaging platform inspired by NGL, featuring secure communication, OAuth login (Google, Twitter), and scalable architecture for high traffic.  
+**Tech:** Node.js, Express.js, MongoDB, Passport.js, OAuth  
+
+---
+
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ziad-sharara)  
@@ -186,17 +209,9 @@ I'm a passionate **Back-End Developer** with a generalist mindset — capable of
 
 ---
 
-## 📺 Featured Content
-
-### Node.js & Laravel Practices
-- *Building Scalable REST APIs with Node.js, Express.js, and Laravel*
-- *Authentication & Authorization Flow using JWT and Laravel Sanctum*
-- *Database Performance & Schema Design in MongoDB and MySQL*
-- *File Uploads, Validation, and Middleware Design in Both Stacks*
+✨ *"I’m always open to discussing new opportunities, innovative projects, and ways to contribute to impactful solutions."*  
 
 ---
-
-### Let's build something amazing together! 🚀
 
 
 
