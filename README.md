@@ -81,14 +81,6 @@ A <strong>Java Backend Developer</strong> specialized in building scalable, main
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ziadsharara&show_icons=true&theme=radical" alt="Ziad's GitHub stats" height="160"/>
-</p>
-
----
-
 ## 🌐 Connect with Me  
 
 <div align="center">
