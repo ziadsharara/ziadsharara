@@ -141,48 +141,53 @@ A <strong>Back-End Developer</strong> and <strong>Database Management</strong>.
 
 # Hi there, I'm Ziad Sharara 👋
 
-I'm a passionate **SAP Fiori Developer** and **Back-End Developer** with a strong foundation in building enterprise-grade applications.  
-Currently interning at CIC as a Fiori Developer, where I work with **SAPUI5**, **Fiori Elements**, and **OData services** to deliver modern, user-friendly enterprise applications.  
+I’m a Java Backend Developer with expertise in Spring Boot and hands-on experience in Node.js and .NET.  
+Currently working at CIC as a Java Backend Developer, where I design, develop, and maintain scalable backend services and RESTful APIs following clean architecture and SOLID principles.  
 
-Beyond SAP, I have hands-on experience in designing and implementing **robust, scalable back-end systems** using **Node.js**, **Express.js**, **ASP.NET Core**, and **Laravel**, with a focus on clean architecture, high performance, and secure integrations.
+I’m passionate about delivering clean, maintainable code and continuously improving my skills across diverse technologies to create user-centric, future-ready solutions.
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me  
 
-- 🎓 Business student with strong passion for technology and software engineering  
-- 💻 Skilled in **SAP Fiori (SAPUI5, OData, Fiori Elements)** and modern back-end frameworks  
-- 🧠 Problem solver with a focus on scalable, maintainable, and high-performance solutions  
-- 📦 Experienced with both SQL & NoSQL databases  
-- 🌱 Continuously learning new technologies to expand my development toolkit  
+- 💻 **Java Backend Developer** with expertise in **Spring Boot**, plus hands-on experience with **Node.js** and **.NET**  
+- 🧠 Passionate about designing and building **scalable, maintainable, and high-performance** backend systems  
+- 📦 Skilled in working with both **SQL (MySQL, PostgreSql, SQL Server)** and **NoSQL (MongoDB)** databases  
+- 🛠️ Experienced with **RESTful APIs, Docker, Git, CI/CD,** and applying **Clean Architecture & SOLID principles**  
+- 🌱 Continuously learning and exploring new technologies to expand my development toolkit  
 
 ---
 
 ## 💻 Tech Stack
 
 ### 🧩 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🧱 Frameworks & Technologies
-![SAPUI5](https://img.shields.io/badge/SAPUI5-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🛠️ Tools & DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 ---
 
