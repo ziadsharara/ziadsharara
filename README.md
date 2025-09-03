@@ -36,7 +36,7 @@ A <strong>Java Backend Developer</strong> specialized in building scalable, main
 <img src="https://skillicons.dev/icons?i=html" height="60" alt="HTML5 logo" />
 <img src="https://skillicons.dev/icons?i=css" height="60" alt="CSS3 logo" />
 
-<br/><br/>
+<br/>
 
 <!-- Frameworks & Technologies -->
 <img src="https://skillicons.dev/icons?i=spring" height="60" alt="Spring Boot logo" />
@@ -44,7 +44,7 @@ A <strong>Java Backend Developer</strong> specialized in building scalable, main
 <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="Node.js logo" />
 <img src="https://skillicons.dev/icons?i=express" height="60" alt="Express.js logo" />
 
-<br/><br/>
+<br/>
 
 <!-- Databases -->
 <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="MySQL logo" />
@@ -53,7 +53,7 @@ A <strong>Java Backend Developer</strong> specialized in building scalable, main
 <img src="https://skillicons.dev/icons?i=sqlite" height="60" alt="SQLite logo" />
 <img src="https://skillicons.dev/icons?i=azure" height="60" alt="Azure SQL logo" />
 
-<br/><br/>
+<br/>
 
 <!-- Tools & DevOps -->
 <img src="https://skillicons.dev/icons?i=git" height="60" alt="Git logo" />
@@ -62,7 +62,7 @@ A <strong>Java Backend Developer</strong> specialized in building scalable, main
 <img src="https://skillicons.dev/icons?i=postman" height="60" alt="Postman logo" />
 <img src="https://skillicons.dev/icons?i=jwt" height="60" alt="JWT logo" />
 
-<br/><br/>
+<br/>
 
 <!-- IDEs -->
 <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="VS Code logo" />
