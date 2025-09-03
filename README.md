@@ -70,7 +70,6 @@ A <strong>Java Backend Developer</strong> specialized in building scalable, main
 <img src="https://skillicons.dev/icons?i=github" height="100" alt="GitHub logo" />
 <img src="https://skillicons.dev/icons?i=docker" height="100" alt="Docker logo" />
 <img src="https://skillicons.dev/icons?i=postman" height="100" alt="Postman logo" />
-<img src="https://skillicons.dev/icons?i=jwt" height="100" alt="JWT logo" />
 
 <br/>
 
