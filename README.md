@@ -29,44 +29,44 @@ A <strong>Java Backend Developer</strong> specialized in building scalable, main
 <div align="center">
 
 <!-- Languages -->
-<img src="https://skillicons.dev/icons?i=java" height="60" alt="Java logo" />
-<img src="https://skillicons.dev/icons?i=cs" height="60" alt="C# logo" />
-<img src="https://skillicons.dev/icons?i=js" height="60" alt="JavaScript logo" />
-<img src="https://skillicons.dev/icons?i=ts" height="60" alt="TypeScript logo" />
-<img src="https://skillicons.dev/icons?i=html" height="60" alt="HTML5 logo" />
-<img src="https://skillicons.dev/icons?i=css" height="60" alt="CSS3 logo" />
+<img src="https://skillicons.dev/icons?i=java" height="100" alt="Java logo" />
+<img src="https://skillicons.dev/icons?i=cs" height="100" alt="C# logo" />
+<img src="https://skillicons.dev/icons?i=js" height="100" alt="JavaScript logo" />
+<img src="https://skillicons.dev/icons?i=ts" height="100" alt="TypeScript logo" />
+<img src="https://skillicons.dev/icons?i=html" height="100" alt="HTML5 logo" />
+<img src="https://skillicons.dev/icons?i=css" height="100" alt="CSS3 logo" />
 
 <br/>
 
 <!-- Frameworks & Technologies -->
-<img src="https://skillicons.dev/icons?i=spring" height="60" alt="Spring Boot logo" />
-<img src="https://skillicons.dev/icons?i=dotnet" height="60" alt=".NET logo" />
-<img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="Node.js logo" />
-<img src="https://skillicons.dev/icons?i=express" height="60" alt="Express.js logo" />
+<img src="https://skillicons.dev/icons?i=spring" height="100" alt="Spring Boot logo" />
+<img src="https://skillicons.dev/icons?i=dotnet" height="100" alt=".NET logo" />
+<img src="https://skillicons.dev/icons?i=nodejs" height="100" alt="Node.js logo" />
+<img src="https://skillicons.dev/icons?i=express" height="100" alt="Express.js logo" />
 
 <br/>
 
 <!-- Databases -->
-<img src="https://skillicons.dev/icons?i=mysql" height="60" alt="MySQL logo" />
-<img src="https://skillicons.dev/icons?i=postgres" height="60" alt="PostgreSQL logo" />
-<img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="MongoDB logo" />
-<img src="https://skillicons.dev/icons?i=sqlite" height="60" alt="SQLite logo" />
-<img src="https://skillicons.dev/icons?i=azure" height="60" alt="Azure SQL logo" />
+<img src="https://skillicons.dev/icons?i=mysql" height="100" alt="MySQL logo" />
+<img src="https://skillicons.dev/icons?i=postgres" height="100" alt="PostgreSQL logo" />
+<img src="https://skillicons.dev/icons?i=mongodb" height="100" alt="MongoDB logo" />
+<img src="https://skillicons.dev/icons?i=sqlite" height="100" alt="SQLite logo" />
+<img src="https://skillicons.dev/icons?i=azure" height="100" alt="Azure SQL logo" />
 
 <br/>
 
 <!-- Tools & DevOps -->
-<img src="https://skillicons.dev/icons?i=git" height="60" alt="Git logo" />
-<img src="https://skillicons.dev/icons?i=github" height="60" alt="GitHub logo" />
-<img src="https://skillicons.dev/icons?i=docker" height="60" alt="Docker logo" />
-<img src="https://skillicons.dev/icons?i=postman" height="60" alt="Postman logo" />
-<img src="https://skillicons.dev/icons?i=jwt" height="60" alt="JWT logo" />
+<img src="https://skillicons.dev/icons?i=git" height="100" alt="Git logo" />
+<img src="https://skillicons.dev/icons?i=github" height="100" alt="GitHub logo" />
+<img src="https://skillicons.dev/icons?i=docker" height="100" alt="Docker logo" />
+<img src="https://skillicons.dev/icons?i=postman" height="100" alt="Postman logo" />
+<img src="https://skillicons.dev/icons?i=jwt" height="100" alt="JWT logo" />
 
 <br/>
 
 <!-- IDEs -->
-<img src="https://skillicons.dev/icons?i=vscode" height="60" alt="VS Code logo" />
-<img src="https://skillicons.dev/icons?i=idea" height="60" alt="IntelliJ IDEA logo" />
+<img src="https://skillicons.dev/icons?i=vscode" height="100" alt="VS Code logo" />
+<img src="https://skillicons.dev/icons?i=idea" height="100" alt="IntelliJ IDEA logo" />
 
 </div>
 
