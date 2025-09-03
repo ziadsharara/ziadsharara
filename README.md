@@ -21,6 +21,11 @@ A <strong>Java Backend Developer</strong> specialized in building scalable, main
 <p> Passionate about creating clean, optimized backend solutions with a focus on performance, reliability, and best practices like SOLID and Clean Architecture. </p>
 </div>
 
+<div align="center">
+  Take a look about me on [**my portfolio**](https://meem-seen.me/)!
+
+</div>
+
 
 <div align="center">
 
