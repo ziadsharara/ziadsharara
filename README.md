@@ -29,6 +29,9 @@ A <strong>Java Backend Developer</strong> specialized in building scalable, main
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Aref+Ruqaa&size=66&letterSpacing=&duration=3000&pause=1000&color=F70D0D&center=true&vCenter=true&width=600&height=100&lines=%D8%A7%D9%84%D8%AF%D9%8A%D8%A8)](https://git.io/typing-svg) 
 
+<p align="center"><img src="https://komarev.com/ghpvc/?username=ziadsharara&color=brightgreen" alt="Profile views" /></p>
+
+
 </div>
 
 
@@ -82,7 +85,6 @@ A <strong>Java Backend Developer</strong> specialized in building scalable, main
 
 ---
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=ziadsharara&color=brightgreen" alt="Profile views" /></p>
 
 <p align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ziadsharara&layout=compact&langs_count=5&theme=codeSTACKr"/>
