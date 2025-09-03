@@ -9,7 +9,7 @@
 
 <img src="11.gif" height=300/> 
 -->
-<h1 align="center"><b>Hey Folks! 👾, I'm Ziad 💀</b></h1>
+<h1 align="center"><b>Hey Folks! 👾, I'm Ziad Sharara👋🏼</b></h1>
 
 <div align="center">
 A <strong>Java Backend Developer</strong> specialized in building scalable, maintainable, and high-performance applications.
