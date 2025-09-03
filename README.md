@@ -10,135 +10,103 @@
 
 <img src="11.gif" height=300/> 
 -->
-<!-- 
-<h1 align= "center"><b>Salve Folks! 👾, Here is Eldeeb 💀</b></h1>
+<h1 align="center"><b>Hey Folks! 👾, I'm Ziad 💻</b></h1>
 
 <div align="center">
-A <strong>Back-End Developer</strong> and <strong>Database Management</strong>.
+A <strong>Java Backend Developer</strong> specialized in building scalable, maintainable, and high-performance applications.
 </div>
+
 <br>
-<div align="center">
-<p> Build robust, scalable, and efficient systems with passion. I specialize in creating clean and optimized back-end solutions, with a focus on performance and reliability. </p>
-</div>
--->
-<!--
-<div style="text-align: center;">
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-    <img src="/11.gif" alt="cover" style="width: 3000px;">
-  </a>
-</div>
--->
-<!--
-<div align= "center">
 
 <div align="center">
-    <img width="5" />
-    <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo" />
-    <img width="5" />
-    <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo" />
-    <img width="5" />
-    <img src="https://skillicons.dev/icons?i=js" height="60" alt="JS logo" />
-    <img width="5" />
-    <img src="https://skillicons.dev/icons?i=ts" height="60" alt="TypeScript logo" />
-    <img width="5" />
-    <img src="https://skillicons.dev/icons?i=cs" height="60" alt="C# logo" />
+<p> Passionate about creating clean, optimized backend solutions with a focus on performance, reliability, and best practices like SOLID and Clean Architecture. </p>
 </div>
+
+---
+
+## 🚀 Tech Stack
 
 <div align="center">
-    <img width="5" />
-    <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="Node js logo" />
-    <img width="5" />
-    <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo" />
-    <img width="5" />
-    <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo" />
-    <img width="5" />
-    <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo" />
-    <img width="5" />
-    <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" />
+
+<!-- Languages -->
+<img src="https://skillicons.dev/icons?i=java" height="60" alt="Java logo" />
+<img src="https://skillicons.dev/icons?i=cs" height="60" alt="C# logo" />
+<img src="https://skillicons.dev/icons?i=js" height="60" alt="JavaScript logo" />
+<img src="https://skillicons.dev/icons?i=ts" height="60" alt="TypeScript logo" />
+<img src="https://skillicons.dev/icons?i=html" height="60" alt="HTML5 logo" />
+<img src="https://skillicons.dev/icons?i=css" height="60" alt="CSS3 logo" />
+
+<br/><br/>
+
+<!-- Frameworks & Technologies -->
+<img src="https://skillicons.dev/icons?i=spring" height="60" alt="Spring Boot logo" />
+<img src="https://skillicons.dev/icons?i=dotnet" height="60" alt=".NET logo" />
+<img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="Node.js logo" />
+<img src="https://skillicons.dev/icons?i=express" height="60" alt="Express.js logo" />
+
+<br/><br/>
+
+<!-- Databases -->
+<img src="https://skillicons.dev/icons?i=mysql" height="60" alt="MySQL logo" />
+<img src="https://skillicons.dev/icons?i=postgres" height="60" alt="PostgreSQL logo" />
+<img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="MongoDB logo" />
+<img src="https://skillicons.dev/icons?i=sqlite" height="60" alt="SQLite logo" />
+<img src="https://skillicons.dev/icons?i=azure" height="60" alt="Azure SQL logo" />
+
+<br/><br/>
+
+<!-- Tools & DevOps -->
+<img src="https://skillicons.dev/icons?i=git" height="60" alt="Git logo" />
+<img src="https://skillicons.dev/icons?i=github" height="60" alt="GitHub logo" />
+<img src="https://skillicons.dev/icons?i=docker" height="60" alt="Docker logo" />
+<img src="https://skillicons.dev/icons?i=postman" height="60" alt="Postman logo" />
+<img src="https://skillicons.dev/icons?i=jwt" height="60" alt="JWT logo" />
+
+<br/><br/>
+
+<!-- IDEs -->
+<img src="https://skillicons.dev/icons?i=vscode" height="60" alt="VS Code logo" />
+<img src="https://skillicons.dev/icons?i=idea" height="60" alt="IntelliJ IDEA logo" />
+
 </div>
+
+---
+
+## 📂 Featured Projects  
+
+- 🛒 **Happy Shop** – Scalable E-Commerce API (Node.js, MongoDB, Paymob)  
+- 🦷 **Ibtesama** – Dental Clinic Management API (Node.js, MongoDB)  
+- ✉️ **NGL Clone** – Anonymous Messaging Platform API (Node.js, MongoDB, OAuth)  
+- 🧑‍💼 **Employee Management System** – Enterprise Employee Directory App (Java/Spring Boot)  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ziadsharara&show_icons=true&theme=radical" alt="Ziad's GitHub stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ziadsharara&theme=radical" alt="Ziad's GitHub streak" height="160"/>
+</p>
+
+---
+
+## 🌐 Connect with Me  
 
 <div align="center">
-    <img width="5" />
-    <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="PostgreSQL logo" />
-    <img width="5" />
-    <img src="https://skillicons.dev/icons?i=sqlite" height="60" alt="Sql logo" />
-    <img width="5" />
-    <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="MySql logo" />
-    <img width="5" />
-    <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="MongoDB logo" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ziad-sharara)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ziad.shararaa@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ziadsharara)  
+
 </div>
 
-<div align="center">
-    <img width="5" />
-    <img src="https://skillicons.dev/icons?i=git" height="60" alt="Git logo" />
-    <img width="5" />
-    <img src="https://skillicons.dev/icons?i=github" height="60" alt="GitHub logo" />
-    <img width="5" />
-    <img src="https://skillicons.dev/icons?i=docker" height="60" alt="Docker logo" />
-    <img width="5" />
-    <img src="https://skillicons.dev/icons?i=azure" height="60" alt="Azure logo" />
-    <img width="5" />
-    <img src="https://skillicons.dev/icons?i=aws" height="60" alt="AWS logo" />
-    <img width="5" />
-    <img src="https://skillicons.dev/icons?i=kubernetes" height="60" alt="kubernetes logo" />
-    <img width="5" />
-    <img src="https://skillicons.dev/icons?i=redis" height="60" alt="redis logo" />
-</div>
+---
 
-<div align="center">
-    <img width="5" />
-    <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo" />
-    <img width="5" />
-    <img src="https://skillicons.dev/icons?i=visualstudio" height="60" alt="visualstudio logo" />
-    <img width="5" />
-    <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo" />
-    <img width="5" />
-    <img src="https://skillicons.dev/icons?i=discord" height="60" alt="discord logo" />
-    <img width="5" />
-    <img src="https://skillicons.dev/icons?i=notion" height="60" alt="notion logo" />
-</div>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=ziadsharara&color=brightgreen" alt="Profile views" /></p>
 
-<div align="center">
-    <img width="5" />
-    <img src="https://skillicons.dev/icons?i=windows" height="60" alt="Windows logo" />
-    <img width="5" />
-    <img src="https://skillicons.dev/icons?i=linux" height="60" alt="Linux logo" />
-    <img width="5" />
-    <img src="https://skillicons.dev/icons?i=ubuntu" height="60" alt="Ubuntu logo" />
-</div>
 
-<div align="center">
-    <img width="5" />
-    <img src="https://skillicons.dev/icons?i=powershell" height="60" alt="PowerShell logo" />
-    <img width="5" />
-    <img src="https://skillicons.dev/icons?i=npm" height="60" alt="npm logo" />
-</div>
-
--->
 
 <!--
-## Get in Touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ziad-sharara)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ziad.shararaa@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/eldeeb0x)
-
-![Profile Views](https://komarev.com/ghpvc/?username=ziadsharara&color=brightgreen)
--->
-
-<!--
-## Statistics 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ziadsharara&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ziadsharara&theme=vision-friendly-dark)
--->
-
-<!--
-## Github Achievements
-![Github Streaks](https://github-profile-trophy.vercel.app/?username=SPiercer&theme=tokyonight&row=1&column=8)
-<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
--->
-
-
-
 # Hi there, I'm Ziad Sharara 👋
 
 I’m a Java Backend Developer with expertise in Spring Boot and hands-on experience in Node.js and .NET.  
@@ -217,7 +185,7 @@ Anonymous messaging platform inspired by NGL, featuring secure communication, OA
 ✨ *"I’m always open to discussing new opportunities, innovative projects, and ways to contribute to impactful solutions."*  
 
 ---
-
+-->
 
 
 
