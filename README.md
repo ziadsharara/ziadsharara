@@ -21,7 +21,9 @@ A <strong>Java Backend Developer</strong> specialized in building scalable, main
 <p> Passionate about creating clean, optimized backend solutions with a focus on performance, reliability, and best practices like SOLID and Clean Architecture. </p>
 </div>
 
-<div align="center"
+---
+
+<div align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Aref+Ruqaa&size=66&letterSpacing=&duration=3000&pause=1000&color=F70D0D&center=true&vCenter=true&width=600&height=100&lines=%D8%A7%D9%84%D8%AF%D9%8A%D8%A8)](https://git.io/typing-svg) 
 </div>
 
