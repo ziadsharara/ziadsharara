@@ -72,20 +72,10 @@ A <strong>Java Backend Developer</strong> specialized in building scalable, main
 
 ---
 
-## 📂 Featured Projects  
-
-- 🛒 **Happy Shop** – Scalable E-Commerce API (Node.js, MongoDB, Paymob)  
-- 🦷 **Ibtesama** – Dental Clinic Management API (Node.js, MongoDB)  
-- ✉️ **NGL Clone** – Anonymous Messaging Platform API (Node.js, MongoDB, OAuth)  
-- 🧑‍💼 **Employee Management System** – Enterprise Employee Directory App (Java/Spring Boot)  
-
----
-
 ## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ziadsharara&show_icons=true&theme=radical" alt="Ziad's GitHub stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ziadsharara&theme=radical" alt="Ziad's GitHub streak" height="160"/>
 </p>
 
 ---
@@ -103,6 +93,12 @@ A <strong>Java Backend Developer</strong> specialized in building scalable, main
 ---
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ziadsharara&color=brightgreen" alt="Profile views" /></p>
+
+<p align="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thefeqy&layout=compact&langs_count=5&theme=codeSTACKr"/>
+    <!-- Snake -->
+    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+</p>
 
 
 
