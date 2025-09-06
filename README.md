@@ -34,7 +34,7 @@ A <strong>Backend Developer</strong> specialized in building scalable, maintaina
 -->
 
 <div align="center">
-  <p>Take a look about me on [**my portfolio**](https://eldeeb-portfolio.vercel.app/)!</p>
+  Take a look about me on [**my portfolio**](https://eldeeb-portfolio.vercel.app/)!
 </div>
 
 
