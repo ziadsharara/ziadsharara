@@ -100,7 +100,7 @@ A <strong>Backend Developer</strong> specialized in building scalable, maintaina
 
 
 <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ziadsharara&layout=compact&langs_count=5&theme=codeSTACKr"/>
+  <!--  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ziadsharara&layout=compact&langs_count=5&theme=codeSTACKr"/> -->
     <!-- Snake -->
     <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
 </p>
