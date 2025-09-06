@@ -11,6 +11,9 @@
 -->
 <h1 align="center"><b>Hey Folks! 👾, I'm Ziad👋🏼</b></h1>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3200&color=AA83FF&center=true&vCenter=true&lines=A+passionate+software+developer)](https://git.io/typing-svg)
+
+<!-- 
 <div align="center">
 A <strong>Backend Developer</strong> specialized in building scalable, maintainable, and high-performance applications.
 </div>
@@ -22,6 +25,12 @@ A <strong>Backend Developer</strong> specialized in building scalable, maintaina
 
   Take a look about me on [**my portfolio**](https://eldeeb-portfolio.vercel.app/)!
 
+</div>
+
+-->
+
+<div align="center">
+  <p>Take a look about me on [**my portfolio**](https://eldeeb-portfolio.vercel.app/)!</p>
 </div>
 
 
