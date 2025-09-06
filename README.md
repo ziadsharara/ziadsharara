@@ -12,7 +12,7 @@
 <h1 align="center"><b>Hey Folks! 👾, I'm Ziad Sharara👋🏼</b></h1>
 
 <div align="center">
-A <strong>Java Backend Developer</strong> specialized in building scalable, maintainable, and high-performance applications.
+A <strong>Backend Developer</strong> specialized in building scalable, maintainable, and high-performance applications.
 </div>
 
 <br>
