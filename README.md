@@ -75,7 +75,6 @@ A <strong>Backend Developer</strong> specialized in building scalable, maintaina
 <img src="https://skillicons.dev/icons?i=postgres" height="100" alt="PostgreSQL logo" />
 <img src="https://skillicons.dev/icons?i=mongodb" height="100" alt="MongoDB logo" />
 <img src="https://skillicons.dev/icons?i=sqlite" height="100" alt="SQLite logo" />
-<img src="https://skillicons.dev/icons?i=azure" height="100" alt="Azure SQL logo" />
 
 <br/>
 
@@ -87,9 +86,6 @@ A <strong>Backend Developer</strong> specialized in building scalable, maintaina
 
 <br/>
 
-<!-- IDEs -->
-<img src="https://skillicons.dev/icons?i=vscode" height="100" alt="VS Code logo" />
-<img src="https://skillicons.dev/icons?i=idea" height="100" alt="IntelliJ IDEA logo" />
 
 </div>
 
