@@ -55,8 +55,6 @@ A <strong>Backend Developer</strong> specialized in building scalable, maintaina
 <div align="center">
 
 <!-- Languages -->
-<img src="https://skillicons.dev/icons?i=java" height="100" alt="Java logo" />
-<img src="https://skillicons.dev/icons?i=cs" height="100" alt="C# logo" />
 <img src="https://skillicons.dev/icons?i=js" height="100" alt="JavaScript logo" />
 <img src="https://skillicons.dev/icons?i=ts" height="100" alt="TypeScript logo" />
 <img src="https://skillicons.dev/icons?i=html" height="100" alt="HTML5 logo" />
@@ -65,10 +63,10 @@ A <strong>Backend Developer</strong> specialized in building scalable, maintaina
 <br/>
 
 <!-- Frameworks & Technologies -->
-<img src="https://skillicons.dev/icons?i=spring" height="100" alt="Spring Boot logo" />
-<img src="https://skillicons.dev/icons?i=dotnet" height="100" alt=".NET logo" />
 <img src="https://skillicons.dev/icons?i=nodejs" height="100" alt="Node.js logo" />
 <img src="https://skillicons.dev/icons?i=express" height="100" alt="Express.js logo" />
+<img src="https://skillicons.dev/icons?i=nest" height="100" alt="Nest.js logo" />
+
 
 <br/>
 
