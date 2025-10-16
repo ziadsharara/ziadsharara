@@ -10,8 +10,10 @@
 
 <img src="11.gif" height=300/> 
 -->
-<h1 align="center"><b>Hey Folks! 👾, I'm Ziad👋🏼</b></h1>
 
+<!--
+<h1 align="center"><b>Hey Folks! 👾, I'm Ziad👋🏼</b></h1>
+-->
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3200&color=AA83FF&center=true&vCenter=true&lines=A+passionate+software+developer)](https://git.io/typing-svg)
