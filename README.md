@@ -5,12 +5,7 @@
   Experienced in Q/A testing methodologies to ensure code quality and reliability. <br/>
   Adaptable to diverse technologies and committed to continuous learning and professional growth.</div>
 <br/>
-<samp align="center">
-<div align="center">
-  Portfolio: <a href="https://eldeeb-portfolio.vercel.app/"> My Portfolio </a>
-</div>
-</samp>
-<br/>
+
 
 <table align="center">
   <tr>
