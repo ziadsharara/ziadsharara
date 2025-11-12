@@ -1,66 +1,7 @@
 <!-- <img src="images/banner.png"/>
-## 🚀 Tech Stack
-
-<div align="center">
-
-<!-- Languages -->
-<img src="https://skillicons.dev/icons?i=js" height="100" alt="JavaScript logo" />
-<img src="https://skillicons.dev/icons?i=ts" height="100" alt="TypeScript logo" />
-<img src="https://skillicons.dev/icons?i=html" height="100" alt="HTML5 logo" />
-<img src="https://skillicons.dev/icons?i=css" height="100" alt="CSS3 logo" />
-
-<br/>
-
-<!-- Frameworks & Technologies -->
-<img src="https://skillicons.dev/icons?i=nodejs" height="100" alt="Node.js logo" />
-<img src="https://skillicons.dev/icons?i=express" height="100" alt="Express.js logo" />
-<img src="https://skillicons.dev/icons?i=nest" height="100" alt="Nest.js logo" />
-
-
-<br/>
-
-<!-- Databases -->
-<img src="https://skillicons.dev/icons?i=mysql" height="100" alt="MySQL logo" />
-<img src="https://skillicons.dev/icons?i=postgres" height="100" alt="PostgreSQL logo" />
-<img src="https://skillicons.dev/icons?i=mongodb" height="100" alt="MongoDB logo" />
-<img src="https://skillicons.dev/icons?i=sqlite" height="100" alt="SQLite logo" />
-
-<br/>
-
-<!-- Tools & DevOps -->
-<img src="https://skillicons.dev/icons?i=git" height="100" alt="Git logo" />
-<img src="https://skillicons.dev/icons?i=github" height="100" alt="GitHub logo" />
-<img src="https://skillicons.dev/icons?i=docker" height="100" alt="Docker logo" />
-<img src="https://skillicons.dev/icons?i=postman" height="100" alt="Postman logo" />
-
-<br/>
-
-
-</div>
-
-
---- -->
-
 -->
 
 
-<p align="left">
-  <!--  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ziadsharara&layout=compact&langs_count=5&theme=codeSTACKr"/> -->
-    <!-- Snake -->
-    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-</p>
-
----
-
-## 🌐 Connect with Me  
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ziadsharara)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ziad.shararaa@gmail.com)  
-
-</div>
--->
 
 <!--
 <img src="https://readme-typing-svg.demolab.com/?lines=Hello+Advanturer+!;Welcome+to+my+world.;I+hope+you+will+enjoy+your+stay+and+my+code.;but+be+careful+of+the+bugs,+there+are+everywhere!;Good+luck+!&font=Press%20Start%202P&width=900&height=50&duration=4000&pause=1000">
