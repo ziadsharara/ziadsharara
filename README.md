@@ -1,63 +1,4 @@
-<!-- <img src="images/banner.png"/> -->
-
-<!--
-<img src="https://readme-typing-svg.demolab.com/?lines=Hello+Advanturer+!;Welcome+to+my+world.;I+hope+you+will+enjoy+your+stay+and+my+code.;but+be+careful+of+the+bugs,+there+are+everywhere!;Good+luck+!&font=Press%20Start%202P&width=900&height=50&duration=4000&pause=1000">
-
--->
-
-<!--
-### Hey, Elذeeb's here
-
-<img src="11.gif" height=300/> 
--->
-
-<!--
-<h1 align="center"><b>Hey Folks! 👾, I'm Ziad👋🏼</b></h1>
-
-
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3200&color=AA83FF&center=true&vCenter=true&lines=A+passionate+software+developer)](https://git.io/typing-svg)
-
-</div>
-
--->
-
-<!-- 
-<div align="center">
-A <strong>Backend Developer</strong> specialized in building scalable, maintainable, and high-performance applications.
-</div>
-
-<br>
-
-<!--
-<div align="center">
-<p> Passionate about creating clean, optimized backend solutions with a focus on performance, reliability, and best practices like SOLID and Clean Architecture. </p>
-
-  Take a look about me on [**my portfolio**](https://eldeeb-portfolio.vercel.app/)!
-
-</div>
-
--->
-
-<!-- <div align="center">
-  <h3>Take a look about me on <a href="https://eldeeb-portfolio.vercel.app/"> MY WEBSITE </a></h3>
-</div> -->
-
-<!--
- <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Aref+Ruqaa&size=66&letterSpacing=&duration=3000&pause=1000&color=F70D0D&center=true&vCenter=true&width=600&height=100&lines=%D8%A7%D9%84%D8%AF%D9%8A%D8%A8)](https://git.io/typing-svg) 
-
-<p align="center"><img src="https://komarev.com/ghpvc/?username=ziadsharara&color=brightgreen" alt="Profile views" /></p>
-
-
-</div>
-
-
----
-
+<!-- <img src="images/banner.png"/>
 ## 🚀 Tech Stack
 
 <div align="center">
@@ -119,6 +60,67 @@ A <strong>Backend Developer</strong> specialized in building scalable, maintaina
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ziad.shararaa@gmail.com)  
 
 </div>
+-->
+
+<!--
+<img src="https://readme-typing-svg.demolab.com/?lines=Hello+Advanturer+!;Welcome+to+my+world.;I+hope+you+will+enjoy+your+stay+and+my+code.;but+be+careful+of+the+bugs,+there+are+everywhere!;Good+luck+!&font=Press%20Start%202P&width=900&height=50&duration=4000&pause=1000">
+
+-->
+
+<!--
+### Hey, Elذeeb's here
+
+<img src="11.gif" height=300/> 
+-->
+
+<!--
+<h1 align="center"><b>Hey Folks! 👾, I'm Ziad👋🏼</b></h1>
+
+
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3200&color=AA83FF&center=true&vCenter=true&lines=A+passionate+software+developer)](https://git.io/typing-svg)
+
+</div>
+
+-->
+
+<!-- 
+<div align="center">
+A <strong>Backend Developer</strong> specialized in building scalable, maintainable, and high-performance applications.
+</div>
+
+<br>
+
+<!--
+<div align="center">
+<p> Passionate about creating clean, optimized backend solutions with a focus on performance, reliability, and best practices like SOLID and Clean Architecture. </p>
+
+  Take a look about me on [**my portfolio**](https://eldeeb-portfolio.vercel.app/)!
+
+</div>
+
+-->
+
+<!-- <div align="center">
+  <h3>Take a look about me on <a href="https://eldeeb-portfolio.vercel.app/"> MY WEBSITE </a></h3>
+</div> -->
+
+<!--
+ <div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Aref+Ruqaa&size=66&letterSpacing=&duration=3000&pause=1000&color=F70D0D&center=true&vCenter=true&width=600&height=100&lines=%D8%A7%D9%84%D8%AF%D9%8A%D8%A8)](https://git.io/typing-svg) 
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=ziadsharara&color=brightgreen" alt="Profile views" /></p>
+
+
+</div>
+
+
+---
+
+
 
 
 <!--
