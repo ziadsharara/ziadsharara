@@ -1,10 +1,16 @@
 <h3 align="center">Ladies and Gentlemen, I'm Ziad Sharara</h3>
 <h4 align="center">Backend Developer | Q/A Tester </h4>
+<div align="center">Backend Software Engineer with strong expertise in Node.js and Spring Boot. <br/>
+  Skilled in designing and developing scalable user-centric backend solutions. <br/>
+  Experienced in Q/A testing methodologies to ensure code quality and reliability. <br/>
+  Adaptable to diverse technologies and committed to continuous learning and professional growth.</div>
+<br/>
 <samp align="center">
 <div align="center">
   Portfolio: <a href="https://eldeeb-portfolio.vercel.app/"> My Portfolio </a>
 </div>
 </samp>
+<br/>
 
 <table align="center">
   <tr>
