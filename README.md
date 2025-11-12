@@ -1,3 +1,6 @@
+<h3 align="center">Ladies and Gentlemen, I'm Ziad Sharara</h3>
+<h4 align="center">Backend Developer | Q/A Tester </h4>
+
 <table align="center">
   <tr>
     <td><img align="center" src="https://readmestats.999857.xyz/api?username=ziadsharara&show_icons=true&locale=en&theme=dark" alt="Ziad" /></td>
