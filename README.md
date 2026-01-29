@@ -8,7 +8,6 @@
 <table align="center">
   <tr>
     <td><img align="center" src="https://readmestats.999857.xyz/api?username=ziadsharara&show_icons=true&locale=en&theme=dark" alt="Ziad" /></td>
-    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ziadsharara&theme=dark" alt="Ziad's Streak" /></td>
   </tr>
 </table>
 
