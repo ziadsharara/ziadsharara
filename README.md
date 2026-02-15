@@ -1,8 +1,6 @@
-<h3 align="center">Ladies and Gentlemen, I'm Ziad Sharara</h3>
+<h3 align="center">Ladies and Gentlemen, I'm Ziad</h3>
 <h4 align="center">Backend Developer</h4>
-<div align="center">Backend Software Engineer with expertise in Node.js and .NET <br/>
-  Adaptable to diverse technologies and committed to continuous learning and professional growth.</div>
-<br/>
+
 
 
 <table align="center">
