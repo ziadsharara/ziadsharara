@@ -1,4 +1,3 @@
-<h3 align="center">Ladies and Gentlemen, I'm Ziad</h3>
 <h4 align="center">Backend Developer</h4>
 
 
