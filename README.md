@@ -1,4 +1,4 @@
-<h4 align="center">Backend Developer</h4>
+<!-- <h4 align="center">Backend Developer</h4>
 
 
 
@@ -6,7 +6,7 @@
   <tr>
     <td><img align="center" src="https://readmestats.999857.xyz/api?username=ziadsharara&show_icons=true&locale=en&theme=dark" alt="Ziad" /></td>
   </tr>
-</table>
+</table> -->
 
 <!-- <img src="images/banner.png"/>
 -->
@@ -20,9 +20,9 @@
 
 <!--
 ### Hey, Elذeeb's here
-
-<img src="11.gif" height=300/> 
 -->
+<img src="11.gif" height=300/> 
+
 
 <!--
 <h1 align="center"><b>Hey Folks! 👾, I'm Ziad👋🏼</b></h1>
