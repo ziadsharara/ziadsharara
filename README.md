@@ -21,7 +21,7 @@
 <!--
 ### Hey, Elذeeb's here
 -->
-
+<!--
 Backend Engineer from Cairo. I build enterprise systems by day and ship my own products at night.
 
 Currently building **Ousta** — a service marketplace for Egypt — and co-founding a Software House targeting Egypt & MENA.
@@ -31,7 +31,7 @@ Java/Spring Boot · NodeJS/ExpressJS · PHP/Laravel · Dart/Flutter · TS-JS/Vue
 I write about backend engineering on [Medium](https://medium.com/@ziad-sharara).
 
 [@eldeeb0x](https://x.com/eldeeb0x) · [Medium](https://medium.com/@ziad-sharara) · [LinkedIn](https://linkedin.com/in/ziad-sharara)
-
+-->
 <img src="11.gif" height=300/> 
 
 
