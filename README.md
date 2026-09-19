@@ -5,7 +5,9 @@
 </div>
 
 
-I build backend systems that are supposed to just sit there and work, and mostly they do. Currently a Java/Spring Boot dev by day, and by night I apparently build some useful tools.
+I build backend systems that are supposed to just sit there and work, and mostly they do. 
+
+Currently a Java/Spring Boot dev by day, and by night I apparently build some useful tools.
 
 Semicolon-obsessed. Allergic to spaghetti (the code kind). DMs open for anything more interesting than a Jira ticket.
 
