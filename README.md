@@ -5,12 +5,7 @@
 </div>
 
 
-I build backend systems that are supposed to just sit there and work, and mostly they do. Currently a Java/Spring Boot dev by day, and by night I apparently rebuild entire companies for fun:
-
-- Split a ride-hailing app into microservices that gossip over Kafka instead of yelling at each other over REST — the drivers actually show up.
-- Rebuilt Netflix's backend as a side project. Still working on the content budget.
-- Rice my Linux desktop in my spare time, because apparently shipping production code all day isn't enough main-character energy.
-
+I build backend systems that are supposed to just sit there and work, and mostly they do. Currently a Java/Spring Boot dev by day, and by night I apparently build some useful tools.
 
 Semicolon-obsessed. Allergic to spaghetti (the code kind). DMs open for anything more interesting than a Jira ticket.
 
