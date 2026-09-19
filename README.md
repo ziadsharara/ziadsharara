@@ -14,9 +14,9 @@ Semicolon-obsessed. Allergic to spaghetti (the code kind). DMs open for anything
 </div>
 <div align="center">
 
+[![Visit My Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-AA83FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.sharara.me/)
+<br><br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ziad-sharara)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/eldeeb0x)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ziad-sharara)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://eldeeb-portfolio.vercel.app/)
-
 </div>
